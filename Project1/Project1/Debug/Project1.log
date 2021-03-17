@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\haris\downloads\polyu\sem2\programming fundamentals comp1011\project\project1\project1\source.c(19): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\haris\downloads\polyu\sem2\programming fundamentals comp1011\project\project1\project1\source.c(66): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project1.vcxproj -> C:\Users\haris\Downloads\PolyU\Sem2\Programming fundamentals Comp1011\Project\Project1\Debug\Project1.exe
